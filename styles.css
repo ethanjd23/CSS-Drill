@@ -18,3 +18,22 @@ a:hover {
     color: rgb(150, 4, 72);
     font-weight: bolder;
 }
+.boxes {
+    margin: ;
+    padding: ;
+    border: 1px solid yellow;
+    border-radius: 20px;
+    width: 30em;
+}
+#box1 {
+    background-color: blue;
+}
+#box2 {
+    background-color: beige;
+}
+#box3 {
+    background-color: khaki;
+}
+#box4 {
+    background-color: sienna;
+}
