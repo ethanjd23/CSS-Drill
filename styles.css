@@ -1,0 +1,20 @@
+body {
+    font-family: 'Lora';
+    background-color: lightgrey;
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: forestgreen;
+}
+a:hover {
+    font-weight: bold;
+    color: orange;
+    cursor: pointer;
+}
+.Food {
+    color: rgb(150, 4, 72);
+    font-weight: bolder;
+}
