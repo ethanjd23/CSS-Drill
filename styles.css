@@ -47,3 +47,17 @@ a:hover {
     position: absolute; 
     left: 5em;
 }
+h1 {color: tan;}
+.original {color: maroon;}
+.additional {color: yellowgreen;}
+#show1 {color: antiquewhite;}
+#show2 {color: aqua;}
+#show3 {color: aquamarine;}
+#show4 {color: black;}
+#show5 {color: chartreuse;}
+li {text-decoration: underline;}
+.star {text-decoration: line-through;}
+#war {font-weight: bold;}
+.lists {
+    border: 2px solid black;
+}
